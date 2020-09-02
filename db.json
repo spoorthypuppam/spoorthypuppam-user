@@ -1,42 +1,43 @@
 {
 
-  "users": [
-    {
-      "id": 1,
-      "name": "spoorthy",
-      "email": "spoorthy.poochi@gmailcom",
-      "address": {
-        "city": "Pentlavelly",
-        "zipcode": 509001,
+    "users": [
+      {
+        "id": 1,
+        "name": "spoorthy",
+        "email": "spoorthy.poochi@gmailcom",
+        "address": {
+          "city": "Pentlavelly",
+          "zipcode": 509001
+        }
+      },
+      {
+        "id": 2,
+        "name": "Shreshta",
+        "email": "shreshta.chechi@gmailcom",
+        "address": {
+          "city": "Pentlavelly",
+          "zipcode": 509001
+        }
+      },
+      {
+        "id": 3,
+        "name": "prasanna laxmi",
+        "email": "prasanna.laxmi@gmailcom",
+        "address": {
+          "city": "Pentlavelly",
+          "zipcode": 509001
+        }
+      },
+      {
+        "id": 4,
+        "name": "venkateshwarlu",
+        "email": "venkateshwarlu.venki@gmailcom",
+        "address": {
+          "city": "Pentlavelly",
+          "zipcode": 509001
+        }
       }
-    },
-    {
-      "id": 2,
-      "name": "Shreshta",
-      "email": "shreshta.chechi@gmailcom",
-      "address": {
-        "city": "Pentlavelly",
-        "zipcode": 509001,
-      }
-    },
-    {
-      "id": 3,
-      "name": "prasanna laxmi",
-      "email": "prasanna.laxmi@gmailcom",
-      "address": {
-        "city": "Pentlavelly",
-        "zipcode": 509001,
-      }
-    },
-    {
-      "id": 4,
-      "name": "venkateshwarlu",
-      "email": "venkateshwarlu.venki@gmailcom",
-      "address": {
-        "city": "Pentlavelly",
-        "zipcode": 509001,
-      }
-    }
-  ]
-
-}
+    ]
+  
+  }
+  
